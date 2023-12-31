@@ -4,7 +4,7 @@
 
 ### 결과
 
-#### 동작
+#### 동작(2배속)
 
 ![](https://velog.velcdn.com/images/nu11/post/a45c5106-9c4d-427a-a2f2-eef21787d0d2/image.gif)
 
@@ -31,6 +31,8 @@
     ("Title", "Company", "Location", "Reward", "Link")
 12. 반복문으로 순회하며 딕셔너리의 값들만 작성
 13. 종료
+
+<br /><br />
 
 ### 해당 코드
 
