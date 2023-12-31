@@ -33,5 +33,7 @@ total_pages = get_pages("https://weworkremotely.com/remote-full-time-jobs?page=1
 for x in range(total_pages):
   url = f"https://weworkremotely.com/remote-full-time-jobs?page={x+1}"
   scrape_page(url)
-  
-print(len(all_jobs))
+
+r = requests.get("https://remoteok.com/remote-flutter-jobs", headers={
+  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+})
