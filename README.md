@@ -6,7 +6,7 @@
 
 #### 동작
 
-![](https://velog.velcdn.com/images/nu11/post/db9070ce-b2d4-4656-93b1-16a7e8d78a6f/image.gif)
+![](https://velog.velcdn.com/images/nu11/post/a45c5106-9c4d-427a-a2f2-eef21787d0d2/image.gif)
 
 #### wanted_jobs.csv
 
